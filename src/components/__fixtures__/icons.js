@@ -21,3 +21,27 @@ export const faCircle = {
     "..."
   ]
 }
+
+export const farGem = {
+  prefix: 'far',
+  iconName: 'gem',
+  icon: [
+    640,
+    512,
+    [],
+    "f3a5",
+    "..."
+  ],
+}
+
+export const fasGem = {
+  prefix: 'fas',
+  iconName: 'gem',
+  icon: [
+    640,
+    512,
+    [],
+    "f3a5",
+    "..."
+  ],
+}
